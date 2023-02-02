@@ -45,3 +45,38 @@ export const categories = [
     cat: "jeans",
   },
 ];
+
+export const popularProducts = [
+  {
+    id: 1,
+    img: "https://www.pngarts.com/files/12/Bra-Free-PNG-Image.png",
+  },
+  {
+    id: 2,
+    img: "https://www.pngarts.com/files/12/Blouse-PNG-Image.png",
+  },
+  {
+    id: 3,
+    img: "https://www.pngarts.com/files/12/Casual-Blouse-PNG-Image.png",
+  },
+  {
+    id: 4,
+    img: "https://www.pngarts.com/files/12/Bathrobe-Transparent-Image-1.png",
+  },
+  {
+    id: 5,
+    img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+  },
+  {
+    id: 6,
+    img: "https://www.pngarts.com/files/12/Blouse-PNG-Download-Image.png",
+  },
+  {
+    id: 7,
+    img: "https://www.pngarts.com/files/1/Summer-Clothes-For-Women-PNG-Transparent-Image.png",
+  },
+  {
+    id: 8,
+    img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+  },
+];
